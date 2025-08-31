@@ -15,3 +15,6 @@ YMM4で映像エフェクト「ランダム角度」を追加するプラグイ�
 1.このプラグインを[Releases](https://github.com/dmmo-com-jp/RandomAnglePlugin/releases)からインストールする。
 
 2.端末に落としたプラグインをダブルクリックしてYMM4にインストールする。
+
+## ライセンス
+2025年9月1日以降の入手はmitライセンスが適応されます。
